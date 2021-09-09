@@ -30,3 +30,7 @@
 ## Video channels, tutorials
 - Android Developers: https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
 - Google Developers: https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
+
+## Courses
+- Android Developers courses: https://developer.android.com/courses/
+- Google Developers Pathways: https://developers.google.com/learn/pathways
