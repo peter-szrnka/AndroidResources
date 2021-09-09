@@ -2,7 +2,8 @@
 
 ## Useful libraries
 ### DI (Dependency Injection)
-- Dagger
+- Dagger: https://dagger.dev/dev-guide/
+- Hilt: https://dagger.dev/hilt/
 ### Networking
 - OkHttp
 - Volley
